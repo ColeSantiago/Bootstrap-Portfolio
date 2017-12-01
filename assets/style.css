@@ -20,7 +20,7 @@ footer {
 
 .card {
 	margin: 30px;
-}
+ }
 
 .card-title {
 	font-size: 20px;
@@ -34,6 +34,11 @@ footer {
 .p-3 {
 	width: 658px;
 }
+
+.rounded {
+  max-width: 90px;
+}
+
 
 @media (min-width: 1200px) {
   .custom-container {
